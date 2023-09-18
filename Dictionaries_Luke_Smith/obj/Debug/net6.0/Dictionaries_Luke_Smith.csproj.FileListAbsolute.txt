@@ -1,0 +1,14 @@
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\bin\Debug\net6.0\Dictionaries_Luke_Smith.exe
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\bin\Debug\net6.0\Dictionaries_Luke_Smith.deps.json
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\bin\Debug\net6.0\Dictionaries_Luke_Smith.runtimeconfig.json
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\bin\Debug\net6.0\Dictionaries_Luke_Smith.dll
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\bin\Debug\net6.0\Dictionaries_Luke_Smith.pdb
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.AssemblyInfoInputs.cache
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.AssemblyInfo.cs
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.csproj.CoreCompileInputs.cache
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.dll
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\refint\Dictionaries_Luke_Smith.dll
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.pdb
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\Dictionaries_Luke_Smith.genruntimeconfig.cache
+C:\Users\LukeSmith\Documents\Scripts\Assignments\Dictionaries_Luke_Smith\Dictionaries_Luke_Smith\obj\Debug\net6.0\ref\Dictionaries_Luke_Smith.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dictionaries_Luke_Smith/1.0.0": {
+        "runtime": {
+          "Dictionaries_Luke_Smith.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dictionaries_Luke_Smith/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
